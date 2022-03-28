@@ -1,0 +1,124 @@
+.class5{
+  position: fixed;
+    top: 180px;
+    padding: 7px 10px;
+    right: -5px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    line-height: initial;
+    height: auto;
+    border: 2px solid #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: .95em;
+    z-index: 101;
+    background: linear-gradient(to right, #ffcc66 0%, #ffff99 100%);
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    text-decoration: none;
+    width: 55px;
+}
+.class1{
+  position: fixed;
+    top: 225px;
+    padding: 7px 10px;
+    right: -5px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    line-height: initial;
+    height: auto;
+    border: 2px solid #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 28px;
+    z-index: 101;
+    background: linear-gradient(to right, #ffcc66 0%, #ffff99 100%);
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    text-decoration: none;
+    width: 55px;
+}
+
+.class2{
+  position: fixed;
+    top: 270px;
+    padding: 7px 10px;
+    right: -5px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    line-height: initial;
+    height: auto;
+    border: 2px solid #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 28px;
+    z-index: 101;
+    background: linear-gradient(to right, #ffcc66 0%, #ffff99 100%);
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    text-decoration: none;
+    width: 55px;
+}
+
+.class3{
+  position: fixed;
+    top: 315px;
+    padding: 7px 10px;
+    right: -5px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    line-height: initial;
+    height: auto;
+    border: 2px solid #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: .95em;
+    z-index: 101;
+    background: linear-gradient(to right, #ffcc66 0%, #ffff99 100%);
+    border: 2px solid #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: .95em;
+    z-index: 101;
+    background: linear-gradient(to right, #ffcc66 0%, #ffff99 100%);
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    text-decoration: none;
+    width: 55px;
+}
+
+.class4{
+  position: fixed;
+    top: 360px;
+    padding: 7px 10px;
+    right: -5px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    line-height: initial;
+    height: auto;
+    border: 2px solid #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 28px;
+    z-index: 101;
+    background: linear-gradient(to right, #ffcc66 0%, #ffff99 100%);
+    animation-name: flashing;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    text-decoration: none;
+    width: 55px;
+}
