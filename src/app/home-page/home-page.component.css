@@ -1,0 +1,116 @@
+
+
+.topArea{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 1.6em;
+}
+
+.span_style{
+  /* font-family: Arial Unicode MS,Myriad,ms sans-serif,Helvetica, Arial, sans-serif; */
+    padding: 3px 7px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+}
+.logo_t{
+    width: 255px;
+    height: 65px;
+    margin-left: -25px;
+}
+
+.navbar-nav{
+  border-bottom: 1px solid #eee;
+}
+
+.nav_style{
+  font-size: 13.5px;
+    color: #666;
+    text-transform: capitalize;
+    font-weight: 700;
+    background: transparent;
+    font-family: Arial Unicode MS,Myriad,ms sans-serif,Helvetica, Arial, sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+}
+
+.active1{
+  color: #3fbbc0 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #666;
+}
+
+.span_style1{
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+
+table thead th {
+    border: 1px solid #0A66AB !important;
+    border-bottom: 2px solid #0A66AB !important;
+    color: #0A66AB;
+    font-size: 1rem;
+    background-color: #3f8fc07d;
+    text-align: center;
+    width: 112px;
+    font-family: 'Lato', sans-serif;
+}
+
+table td{
+border: 1px solid #0A66AB !important;
+    padding: 0.55rem;
+    vertical-align: middle;
+        font-family: 'Lato', sans-serif;
+        color: #00000087;
+}
+
+@media (min-width: 1200px){
+.container{
+  width: 1170px;
+}
+
+.container-fluid{
+  width: 1372px;
+}
+
+.collapsed_div{
+  margin-left: 6rem;
+}
+}
+
+@media (max-width: 760px) {
+  .span_style1{
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 9px;
+  font-weight: 600;
+}
+
+.span_style{
+  font-size: 12px;
+}
+
+table thead th {
+
+    font-size: 12px;
+
+}
+
+table td{
+    font-size: 12px;
+
+}
+
+.logo_t{
+    width: 193px;
+    height: 47px;
+    margin-left: -19px;
+}
+}
